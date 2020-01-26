@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="UnDosTres" duration-ms="73900" started-at="2020-01-26T20:56:01Z" finished-at="2020-01-26T20:57:15Z">
+    <groups>
+    </groups>
+    <test name="Recharge" duration-ms="73900" started-at="2020-01-26T20:56:01Z" finished-at="2020-01-26T20:57:15Z">
+      <class name="com.test.UnDosTresTest">
+        <test-method status="PASS" signature="checkValidUser()[pri:0, instance:com.test.UnDosTresTest@e6e9c3]" name="checkValidUser" duration-ms="73856" started-at="2020-01-27T02:26:01Z" finished-at="2020-01-27T02:27:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkValidUser -->
+      </class> <!-- com.test.UnDosTresTest -->
+    </test> <!-- Recharge -->
+  </suite> <!-- UnDosTres -->
+</testng-results>
